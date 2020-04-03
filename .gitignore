@@ -1,0 +1,5 @@
+.vs/
+*.inf
+*.log
+KernelDataStructuresFinder/x64/
+x64/
